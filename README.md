@@ -22,7 +22,7 @@ Proyecto CRUD de productos con filtros (categoría, rango de precio, búsqueda p
 ### Backend
 - `DATABASE_URL` ='postgresql://neondb_owner:npg_tcwPs8SQa3TL@ep-icy-frog-ahqsgg02.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require'
 ### Frontend
-- `VITE_API_URL` = 
+- `VITE_API_URL` = http://localhost:3001/api
 
 ---
 
